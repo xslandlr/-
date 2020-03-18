@@ -1,0 +1,2 @@
+include ':app', ':skincore', ':skincore2', ':skin'
+rootProject.name='ChangeSkin'
